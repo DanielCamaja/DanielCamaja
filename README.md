@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Camaja Mendez</h1>
+<h1 align="center">Hola, mi nombre es Daniel Camaja Mendez 👋</h1>
 <h3 align="center">Certificaciones Online (UDEMY) en flutter, certificación móvil (ANDROID) en Campus Tec. Mi experiencia en el área móvil fue desafiante, ya que era un proyecto que hasta ese momento no había visto, por el cual tome unos días en revisar el código y entender las funciones esenciales para su funcionamiento, al igual que pruebas de funcionalidad en cambios mínimos para la comprensión del código hecho.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielcamaja&label=Profile%20views&color=0e75b6&style=flat" alt="danielcamaja" /> </p>
